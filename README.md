@@ -8,7 +8,6 @@ The WRF is used to provide velocity profile inlet for unsteady boundary conditio
 In FLUENT with higher resolutions and techniques such as Computer Aided Design (CAD), Finite Volume Method, and
 several turbulent models as Large eddy simulation (LES) and Detached eddy simulation (DES) combined with the appropriate boundary condition
 could provide wind field simulation results in more accuracy.
->>>>>>> f313df97a2755e1152e99643af2611112869ee6e
 Run wrf4_3D_wrf_contour_CBL.cpp
 
 Run unsteady unsteady_wrf4_ch_3D-boundary 10min-(0-10) udf.cpp
@@ -16,5 +15,3 @@ Run unsteady unsteady_wrf4_ch_3D-boundary 10min-(0-10) udf.cpp
 <<<<<<< HEAD
 Click [here](https://drive.google.com/file/d/1SAY42wGYLURPYZRgFv9WgAZ3PBjTuARZ/view?usp=sharing) for more info.
 =======
-
->>>>>>> f313df97a2755e1152e99643af2611112869ee6e

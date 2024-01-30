@@ -1,5 +1,5 @@
 This projet using Coupling WRF/FLUENT to simulate the complex terrain
-<<<<<<< HEAD
+
 1. Using Weather Research and Forecasting (WRF)
 =======
 the coupling between the meteorological model, Weather Research and Forecasting (WRF), and a
@@ -8,10 +8,10 @@ The WRF is used to provide velocity profile inlet for unsteady boundary conditio
 In FLUENT with higher resolutions and techniques such as Computer Aided Design (CAD), Finite Volume Method, and
 several turbulent models as Large eddy simulation (LES) and Detached eddy simulation (DES) combined with the appropriate boundary condition
 could provide wind field simulation results in more accuracy.
-Run wrf4_3D_wrf_contour_CBL.cpp
+1. Run wrf4_3D_wrf_contour_CBL.cpp
 
-Run unsteady unsteady_wrf4_ch_3D-boundary 10min-(0-10) udf.cpp
-![Alt text](image.png)
-<<<<<<< HEAD
-Click [here](https://drive.google.com/file/d/1SAY42wGYLURPYZRgFv9WgAZ3PBjTuARZ/view?usp=sharing) for more info.
-=======
+2. Run unsteady unsteady_wrf4_ch_3D-boundary 10min-(0-10) udf.cpp
+References
+[1] [Coupling WRF/FLUENT to simulate the complex terrain 2018 AASRC Conference · Tainan · Dec 8, 2018](https://drive.google.com/file/d/1SAY42wGYLURPYZRgFv9WgAZ3PBjTuARZ/view?usp=sharing) for more info.
+[2] [Application of numerical simulation to verify measurement data of wind field in offshore domainApplication of numerical simulation to verify measurement data of wind field in offshore domain
+12th International Symposium on Advanced Science and Technology in Experimental Mechanics, 1-4 November, 2017, Kanazawa, Japan]()

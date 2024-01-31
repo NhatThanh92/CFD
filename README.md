@@ -24,7 +24,6 @@ Click [Here](https://drive.google.com/file/d/1ndAXF_V_vMwYsiWR3ACs11DyPRVYYA5g/v
 
 **References**
 
-[1] Trieu Nhat-Thanh NGUYEN, Jiun-Jih MIAU, Yng-Ru CHEN, ["Coupling WRF/FLUENT to simulate the complex terrain"](https://drive.google.com/file/d/1SAY42wGYLURPYZRgFv9WgAZ3PBjTuARZ/view?usp=sharing), 2018 AASRC Conference · Tainan · Dec 8, 2018
+[1] Trieu Nhat-Thanh NGUYEN, Jiun-Jih MIAU, Yng-Ru CHEN, "Coupling WRF/FLUENT to simulate the complex terrain", 2018 AASRC Conference · Tainan · Dec 8, 2018. (Click [Here](https://drive.google.com/file/d/1SAY42wGYLURPYZRgFv9WgAZ3PBjTuARZ/view?usp=sharing))
 
-[2] Trieu Nhat-Thanh Nguyen, MIAU Jiun-Jih, S.Y.Lin, ["Application of numerical simulation to verify measurement data of wind field in offshore domain"
-](https://drive.google.com/file/d/1WWlXbe0GVR_II1cRplhunu_vwX2RlO85/view?usp=sharing), 12th International Symposium on Advanced Science and Technology in Experimental Mechanics, 1-4 November, 2017, Kanazawa, Japan
+[2] Trieu Nhat-Thanh Nguyen, MIAU Jiun-Jih, S.Y.Lin, "Application of numerical simulation to verify measurement data of wind field in offshore domain", 12th International Symposium on Advanced Science and Technology in Experimental Mechanics, 1-4 November, 2017, Kanazawa, Japan. (Click [Here](https://drive.google.com/file/d/1WWlXbe0GVR_II1cRplhunu_vwX2RlO85/view?usp=sharing))

@@ -1,4 +1,4 @@
-## This project uses Coupling WRF/FLUENT to simulate the complex terrain
+## Coupling WRF/FLUENT to simulate the complex terrain
 
 **1. Coupling WRF and FLUENT:**
 

@@ -22,6 +22,11 @@ Simultaneously, it incorporates the turbulence Large Eddy Simulation (LES) by em
 
 Click [Here](https://drive.google.com/file/d/1ndAXF_V_vMwYsiWR3ACs11DyPRVYYA5g/view?usp=sharing) for more info.
 
+**4. Results**
+
+![Y_south-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/594a51ea-1946-4096-b696-71fc5d2e05b2)
+
+
 **References**
 
 [1] Trieu Nhat-Thanh NGUYEN, Jiun-Jih MIAU, Yng-Ru CHEN, "Coupling WRF/FLUENT to simulate the complex terrain", 2018 AASRC Conference · Tainan · Dec 8, 2018. (Click [Here](https://drive.google.com/file/d/1SAY42wGYLURPYZRgFv9WgAZ3PBjTuARZ/view?usp=sharing))
